@@ -20,4 +20,4 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lea
 # 拉取微信推送、京东签到插件
 git clone https://github.com/tty228/luci-app-serverchan.git package/lean/luci-app-serverchan
 #git clone https://github.com/jerrykuku/node-request.git package/lean/node-request
-git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
+#git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
