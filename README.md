@@ -7,7 +7,8 @@
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
 A template for building OpenWrt with GitHub Actions
-包含完整的Openclash兼容 hello word以及其他常用工具
+适配Newwifi D2(新路由2) 包含完整的Openclash兼容 hello word以及其他常用Luci应用
+集成了自动挂载，自动SMBA和NTFS文件系统支持
 ## Usage
 
 - Click the [Use this template](https://github.com/P3TERX/Actions-OpenWrt/generate) button to create a new repository.
