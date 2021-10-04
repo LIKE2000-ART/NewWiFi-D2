@@ -20,8 +20,9 @@ rm -rf package/lean/luci-app-jd-dailybonus
 # 拉取argon主题
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
 
+
 # 拉取微信推送、京东签到插件
 #git clone https://github.com/jerrykuku/node-request.git package/lean/node-request
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
 #git clone https://github.com/jerrykuku/luci-app-vssr.git package/lean/luci-app-vssr
-
+git clone https://github.com/jerrykuku/luci-app-argon-configr.git package/lean/luci-app-argon-configr
