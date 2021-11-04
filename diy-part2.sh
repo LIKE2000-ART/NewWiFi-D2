@@ -25,4 +25,4 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lea
 #git clone https://github.com/jerrykuku/node-request.git package/lean/node-request
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
 #git clone https://github.com/jerrykuku/luci-app-vssr.git package/lean/luci-app-vssr
-git clone https://github.com/jerrykuku/luci-app-argon-configr.git package/lean/luci-app-argon-configr
+git clone https://github.com/jerrykuku/luci-app-argon-config.git package/lean/luci-app-argon-config
