@@ -15,9 +15,9 @@
     <br />
     <a href="https://upawg.ca/">查看现有资源列表</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">许愿池（建设中）</a>
+    <a href="https://cloud.2nd-ch1.ml">许愿池（建设中）</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">反馈BUG/恶意程序（建设中）</a>
+    <a href="https://cloud.2nd-ch1.ml">反馈BUG/恶意程序（建设中）</a>
   </p>
 
 </p>
