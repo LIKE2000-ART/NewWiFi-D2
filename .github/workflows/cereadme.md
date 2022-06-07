@@ -6,8 +6,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Orz-3/mini/blob/master/Color/heybox.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">"Cert's Cloud</h3>
