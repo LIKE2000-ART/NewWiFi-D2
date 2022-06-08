@@ -6,7 +6,8 @@
 <br />
 
 <p align="center">
-    <img src="https://github.com/Orz-3/mini/blob/master/Color/heybox.png" alt="Logo" width="80" height="80">
+    <img src="https://img.shields.io/github/workflow/status/cloudreve/Cloudreve/Test?style=flat-square"
+         alt="GitHub Test Workflow">
   </a>
 
   <h3 align="center">"Cert's Cloud</h3>
@@ -29,3 +30,4 @@
 
 ## 关于捐助
 如果你喜欢本站的网页UI，可以捐助我来支持本站继续发展！注意：所有收到的捐助用于维护网站和作者的日常开销，不接受与下载内容有关的捐助。
+
