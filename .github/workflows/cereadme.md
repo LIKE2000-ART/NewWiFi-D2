@@ -32,7 +32,7 @@
 
 | TRC20-USDT |
 | :------: |
-| <img width="150" src="./docs/donate/alipay.png"> |
+| <img width="150" src="https://github.com/LIKE2000-ART/NewWiFi-D2/blob/main/.github/workflows/USDT.png?raw=true"> |
 
 ### 捐助者名单
 
