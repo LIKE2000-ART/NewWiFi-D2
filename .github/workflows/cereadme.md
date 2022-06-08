@@ -7,7 +7,6 @@
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png" width="150"/>
-         alt="GitHub Test Workflow">
   </a>
 
   <h3 align="center">"Cert's Cloud</h3>
