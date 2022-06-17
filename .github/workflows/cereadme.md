@@ -63,11 +63,9 @@
 如果你喜欢本站的网页UI，可以捐助我来支持本站继续发展！注意：所有收到的捐助用于维护网站和作者的日常开销，不接受与下载内容有关的捐助。
 <br />
 如需远程软件部署等服务请邮箱联系！
-<p align="center">
-    | TRC20-USDT |
-    | :------: |
-    | <img width="150" src="https://github.com/LIKE2000-ART/NewWiFi-D2/blob/main/.github/workflows/USDT.png?raw=true"> |
-</p>
+| TRC20-USDT |
+| :------: |
+| <img width="150" src="https://github.com/LIKE2000-ART/NewWiFi-D2/blob/main/.github/workflows/USDT.png?raw=true"> |
 ### 捐助者名单
 
 （如果这里还没有你的名字？请发邮件至 ohpnra@163.com 告诉我）
