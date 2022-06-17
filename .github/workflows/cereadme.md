@@ -64,9 +64,9 @@
 <br />
 如需远程软件部署等服务请邮箱联系！
 <p align="center">
-| TRC20-USDT |
-| :------: |
-| <img width="150" src="https://github.com/LIKE2000-ART/NewWiFi-D2/blob/main/.github/workflows/USDT.png?raw=true"> |
+    | TRC20-USDT |
+    | :------: |
+    | <img width="150" src="https://github.com/LIKE2000-ART/NewWiFi-D2/blob/main/.github/workflows/USDT.png?raw=true"> |
 </p>
 ### 捐助者名单
 
